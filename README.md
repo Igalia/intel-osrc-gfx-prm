@@ -19,6 +19,8 @@ The documents are divided in directories by
   * [INTEL&copy; G45 EXPRESS CHIPSET](./001_g45) (EAGLELAKE GRAPHICS)
 * **gen5**
   * [2010 INTEL CORE PROCESSOR FAMILY](./002_ilk_-_2010) (IRONLAKE GRAPHICS)
+* **gen6**
+  * [2011 INTEL CORE PROCESSOR FAMILY](./003_snb_-_2011) (SANDY BRIDGE GRAPHICS)
 
 Plain Text
 ----------
