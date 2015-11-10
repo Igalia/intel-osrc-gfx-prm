@@ -16,6 +16,7 @@ The documents are divided in directories by
 
 * **gen4**
   * [INTEL&copy; 965 EXPRESS CHIPSET FAMILY AND INTEL&copy; G35 EXPRESS CHIPSET GRAPHICS CONTROLLER](./000_g35) (BROADWATER/BEARLAKE GRAPHICS)
+  * [INTEL&copy; G45 EXPRESS CHIPSET](./001_g45) (EAGLELAKE GRAPHICS)
 
 Plain Text
 ----------
