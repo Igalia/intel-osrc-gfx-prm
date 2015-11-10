@@ -21,6 +21,8 @@ The documents are divided in directories by
   * [2010 INTEL CORE PROCESSOR FAMILY](./002_ilk_-_2010) (IRONLAKE GRAPHICS)
 * **gen6**
   * [2011 INTEL CORE PROCESSOR FAMILY](./003_snb_-_2011) (SANDY BRIDGE GRAPHICS)
+* **gen7**
+  * [2012 INTEL CORE PROCESSOR FAMILY](./004_ivb_-_2012) (IVY BRIDGE GRAPHICS)
 
 Plain Text
 ----------
