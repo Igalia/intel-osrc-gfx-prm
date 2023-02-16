@@ -6,6 +6,9 @@ These are the
 Intel's GPUs downloaded from:
 <https://01.org/linuxgraphics/documentation/hardware-specification-prms>
 
+The new address (2023.2):
+<https://www.intel.com/content/www/us/en/develop/documentation/intel-graphics-for-linux-programmers-reference-guide/top/hardware-specs.html>
+
 ![CC-BY-ND](https://licensebuttons.net/l/by-nd/3.0/us/88x31.png)
 
 Structure
