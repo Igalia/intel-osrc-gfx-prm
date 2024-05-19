@@ -6,6 +6,9 @@ These are the
 Intel's GPUs downloaded from:
 <https://01.org/linuxgraphics/documentation/hardware-specification-prms>
 
+The new address (2023.2):
+<https://www.intel.com/content/www/us/en/develop/documentation/intel-graphics-for-linux-programmers-reference-guide/top/hardware-specs.html>
+
 ![CC-BY-ND](https://licensebuttons.net/l/by-nd/3.0/us/88x31.png)
 
 Structure
@@ -35,6 +38,8 @@ The documents are divided in directories by
   * [2016 INTEL ATOM&trade; PROCESSORS, CELERON&trade; PROCESSORS, AND PENTIUM&trade; PROCESSORS THE APOLLO LAKE PLATFORM (BROXTON GRAPHICS)](./010_bxt_-_2016)
 * **gen9.5**
   * [2016-2017 INTEL CORE&trade; PROCESSORS, CELERON&trade; PROCESSORS AND PENTIUM&trade; PROCESSORS BASED ON THE "KABY LAKE" PLATFORM](./011_kbl_-_2016-2017)
+* **gen12.1**
+  * [INTEL® IRIS® XE GRAPHICS OPEN SOURCE PROGRAMMER'S REFERENCE MANUAL FOR THE 2020 DISCRETE GPU FORMERLY NAMED "DG1"](./017_dg1_-_2020)
 
 Plain Text
 ----------
